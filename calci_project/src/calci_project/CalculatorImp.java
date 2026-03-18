@@ -21,7 +21,8 @@ public class CalculatorImp implements Calculator{
 
 	@Override
 	public void sub(int a, int b) {
-		// TODO Auto-generated method stub
+		System.out.println(a-b);
+		//dev2
 		
 	}
 
