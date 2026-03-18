@@ -10,7 +10,6 @@ public class CalculatorImp implements Calculator{
 
 	@Override
 	public void multi(int a, int b) {
-		// TODO Auto-generated method stub
 		
 	}
 
