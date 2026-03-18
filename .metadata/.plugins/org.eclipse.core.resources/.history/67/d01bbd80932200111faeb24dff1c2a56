@@ -1,0 +1,5 @@
+package calci_project;
+
+public interface Calculator {
+
+}
